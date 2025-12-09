@@ -1,0 +1,17 @@
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.deps.json
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.runtimeconfig.json
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Domain.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Domain.pdb
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.AssemblyReference.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfoInputs.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfo.cs
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoP.9F8619EF.Up2Date
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/refint/TalentoPlus.Infrastructure.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.genruntimeconfig.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/ref/TalentoPlus.Infrastructure.dll

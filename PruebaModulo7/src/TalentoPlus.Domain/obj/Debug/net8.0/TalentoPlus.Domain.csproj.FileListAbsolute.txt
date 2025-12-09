@@ -1,0 +1,11 @@
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/bin/Debug/net8.0/TalentoPlus.Domain.deps.json
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/bin/Debug/net8.0/TalentoPlus.Domain.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/bin/Debug/net8.0/TalentoPlus.Domain.pdb
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.AssemblyInfoInputs.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.AssemblyInfo.cs
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/refint/TalentoPlus.Domain.dll
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/TalentoPlus.Domain.pdb
+/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Domain/obj/Debug/net8.0/ref/TalentoPlus.Domain.dll

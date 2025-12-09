@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F64Z6tavm7k=",
+  "success": true,
+  "projectFilePath": "/home/miguelzapata/Imágenes/PruebaModulo7/src/TalentoPlus.Web/TalentoPlus.Web.csproj",
+  "expectedPackageFiles": [
+    "/home/miguelzapata/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/miguelzapata/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/miguelzapata/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.21/microsoft.netcore.app.host.linux-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
